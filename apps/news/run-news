@@ -3,4 +3,5 @@
 #change to the directory of the script
 cd $(dirname "$0")
 
-../../arc.sh -i ../appcmd.arc "app-start" "news"
+#temp: don't use rlwrap bc I can't figure out how to install on lightsail instance LOL
+../../arc.sh -n -i ../appcmd.arc "app-start" "news"
