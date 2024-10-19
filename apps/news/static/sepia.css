@@ -1,0 +1,20 @@
+@import url("layout.css");
+
+body {
+    background-color: #f4ecd8;  
+    color:#5b4636;
+}
+
+a:link    {color:#8b4513;}
+a:visited {color:#a0522d;}
+.page-header,.page-footer {background-color:#e8dcb5;}
+.page-content {background-color: #fff8dc;}
+.subtext a:link, .subtext a:visited {color: #cd853f;}
+.comhead a:link, .subtext a:visited {color:#cd853f;}
+.uplink a:link{color: #228b22;}
+.downlink a:link {color: #b22222;}
+.dead {color:#a9a9a9;}
+.sand {background-color: rgb(244, 236, 216);}
+.noob {color:#006400;}
+.banned {color:#8b0000;}
+.editor {color:#4682b4;}

@@ -39,7 +39,7 @@
 ;theme css files. Names here should match a css filename
 ;in the static dir (eg default.css). First element in this
 ;list will be used as the default
-   themes* `("default" "dark")
+   themes* `("default" "dark" "sepia")
 
 )
 
